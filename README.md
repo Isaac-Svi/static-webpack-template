@@ -2,7 +2,7 @@
 
 Download using:
 ```bash
-npx degit Isaac-Svi/static-webpack-template
+npx degit Isaac-Svi/static-webpack-template <folder name here>
 ```
 
 Install dependencies using:
